@@ -4,19 +4,19 @@ body {
 }
 
 h1 {
-  background-color: #f2f2f2;
+  background-color: #cccccc;
   color: #333333;
   padding: 10px;
 }
 
-/* Estilos para los subtítulos */
+
 h2 {
   background-color: #e6e6e6;
   color: #333333;
   padding: 5px;
 }
 
-/* Estilos para los cuerpos de texto */
+
 p {
   color: #000000;
   margin-bottom: 10px;
